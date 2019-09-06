@@ -12,3 +12,11 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+.header {
+  width: 500px;
+  font-size: 25px;
+  height: 50px;
+  margin: auto;
+  padding: 10px;
+}
